@@ -1,57 +1,55 @@
 
 ## Funding, placements, CVs, careers
 
+This is a collection of links about sources of funding (placements and postgraduate) and  career advice I have collected to be able to send students who ask me about this to this central place. I tried to make it more UK-centred compared to what is available on the web already (very much US-centred). PRs welcome!
+
 ### If you overwhelmed by all this, start with these four:
 
-–	Dieter Lukas’ academic life and career thoughts: https://dieterlukas.github.io/academiccareer.html
+–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-) 
 
-–	[Dieter Lukas](http://dieterlukas.strikingly.com/)' massive lists of funding opportunities, with focus early-career researchers (scroll down to “Resources” section)
+–	[Dieter Lukas](http://dieterlukas.strikingly.com/)' massive lists of funding opportunities, with focus on early-career researchers (scroll down to “Resources” section)
 
-–	List of placements and advice, dedicated to undergraduates, UK-centered: http://intobiology.org.uk/summer-vacation-placements/
+–	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered
 
 –	If you’re thinking of an academic research career with the goal of being a lecturer, think again and prepare extensively and very carefully, because you will most likely fail: [Taylor, J. Q. et al. Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393). Read this report as well: [2014 report on comparison of different academic careers structure and opportunities in different European countries.](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769)
 
 ### General
 
-–	List of placements and advice, dedicated to undergraduates, UK-centered: http://intobiology.org.uk/summer-vacation-placements/
+–	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered
 
 –	[Dieter Lukas](http://dieterlukas.strikingly.com/)' massive lists of funding opportunities, with focus on early-career researchers (scroll down to “Resources” section)
 
-–	Resources for undergraduates from the BES: https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/
+–	[Resources for undergraduates from the British Ecological Society](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/)
 
-–	Advice on placements resources at the University of Nottingham https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx
+–	[Advice on placements resources at the University of Nottingham](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx)
 
-–	https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md
+–	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers
 
-–	Great profiles of non-traditional careers from life scientists, published weekly by the Researcher Development team at the University of Sheffield: https://thinkaheadsheffield.wordpress.com/tag/sheffvista/
+–	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers from life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here that "non-traditional career" name is misleding, as vast majority of life science students do not end up being lecturers; the academic career is _de facto_ an alternative career choice - see the Taylor _et al._ 2016 paper in eLife).
 
 ### Funding
 
-–	https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/ (there is also opportunity for PhD students to do some mentoring/training there: https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/)
+–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/) (there is also [opportunity for PhD students to do some mentoring/training there](https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/))
 
-–	Undergraduate Research Opportunities at the University of Reading http://www.reading.ac.uk/internal/urop/urop_home.aspx (there is one from Imperial as well) and KCL https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx
+–	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/), [Undergraduate Research Opportunities at the University of Reading]( http://www.reading.ac.uk/internal/urop/urop_home.aspx) and [KCL](https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx) (there is one at Imperial College London as well).
 
-–	https://medicalresearchscotland.org.uk/applying-for-funding/
+–	[Medical Research Scotlands funds summer research placements, among other things](https://medicalresearchscotland.org.uk/applying-for-funding/)
 
-–	https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships (UK students are no longer elligible due to Brexit)
+–	[Leverhulme Trust's study abroad studenthips](https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships) (_update - UK students are no longer elligible due to Brexit_)
 
 –	http://www.csic.es/programa-jae
 
-–	https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements
+–	[Industral Summer Placements with the Royal Society of Biology](https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements)
 
-–	The Huddersfield Undergraduate Programme https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/
+–	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships)
 
-- https://students.hud.ac.uk/careers/mycareerplus/
+–	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh])(https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh)
 
-–	Summer Vacation Work at Syngenta https://www.syngenta.co.uk/summer-internships
+–	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns)
 
-–	List of undergraduate vacation scholarship funding opportunities from the University of Edinburgh (but not limited to Edinburgh): https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities
+–	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx)
 
-–	Research internships at OIST: https://groups.oist.jp/grad/research-interns
-
-–	Summer Vacation Studentships with Biochemical Society http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx
-
-–	Amgen Scholars Program http://amgenscholars.com
+–	[Amgen Scholars Progra](http://amgenscholars.com)
 
 –	http://lido-dtp.ac.uk/index.html
 
@@ -83,56 +81,51 @@
 
 –	Industry Internship Opportunities https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0 (check the other spreadsheets from the lab: http://www.sexchrlab.org/lab#/funding-and-internships)
 
-- http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme
-You may find useful the following documents which are available on the website above too while advising students either on one to one appointments or for your group work presentations:
-·         [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements) where you can also find [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf) and [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf) and [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf)
-·         [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf)
-·         [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf)
-·         [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days) and [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers)
-·         [NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP recruitment process, as do Wales and Northern Ireland (will update when info becomes available)
-·         Applicants should contact the NSHCS for general queries regarding the national recruitment process: hcsapplicants@hee.nhs.uk. All the information and possible questions are covered on the guide and the [FAQ section](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions) on the NSHCS website.
+–	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme), including [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements), [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf),  [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf),  [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf), [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf), [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf), [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days), [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers) and  [FAQ section](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions).
+
+–	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP recruitment process, as do Wales and Northern Ireland.
 
 ### Conferences
 
-–	Funding for conference travel for PIs who are members of the BSCB https://bscb.org/competitions-awardsgrants/cob-support-grants/
+All of the below conferences and meeding are very undergraduate-friendly:
 
-–	Apparently there is an internal funding for UGs to travel to conferences
+–	[The Mammal Society 7th Student Conference](http://www.mammal.org.uk/events/the-mammal-society-7th-student-conference/)
 
-–	And there is a local (Kirklees-based) Tinker Fisher Awards
+–	[Manchester Molecular and Genome Evolution Symposium](https://manchestermage.wordpress.com/)
 
-All of the below conferences and meeding are very UG-friendly:
+–	[Evolutionary Genetics and Genomics Symposium in Cambridge](https://evolutionarygeneticsandgenomics.com/registrationevolutionary-genetics-and-genomics-symposium/)
 
-–	The Mammal Society 7th Student Conference http://www.mammal.org.uk/events/the-mammal-society-7th-student-conference/
+–	We also have a local bioinformatic/computational biology group, which meets 3-4 times a year and where students are welcome: [NorthernBUG](https://northernbug.github.io)
 
-–	Manchester Molecular and Genome Evolution Symposium https://manchestermage.wordpress.com/
+In addition to that:
 
-–	EVOLUTIONARY GENETICS AND GENOMICS SYMPOSIUM in Cambridge https://evolutionarygeneticsandgenomics.com/registrationevolutionary-genetics-and-genomics-symposium/
+–	Funding for conference travel for PIs who are members of the [British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/cob-support-grants/)
 
-–	We also have a local bioinformatic/computational biology group, who meets 3-4 times a year and where students are welcome: https://northernbug.github.io
+–	There is a local (Kirklees-based) Tinker Fisher Awards and an internal funding for undergraduate travel at University of Huddersfield
 
 ### Career advice
 
+–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-) 
+
 –	[The Baskett Lab: Grant and job resources](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html)  US-centred but a lot of career advise resources that are generally applicable
 
-–	[Funding & awards - Aerin L. Jacob](http://www.aerinjacob.ca/funding--awards.html)  
-
-–	Dieter Lukas’ academic life thoughts: https://dieterlukas.github.io/academiccareer.html
+–	Aerin Jacob's [massive list of funding & awards sources](http://www.aerinjacob.ca/funding--awards.html) (mulfple career stages)
 
 –	2014 report on comparison of different academic careers structure and opportunities in different European countries (very useful if you’re thinking of academic research career): https://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769
 
-–	These studies offer a realistic view of postdoc life—and guidance for making career decisions that work for you: http://www.sciencemag.org/careers/2018/09/these-studies-offer-realistic-view-postdoc-life-and-guidance-making-career-decisions
+–	Two articles in Science: [These studies offer a realistic view of postdoc life—and guidance for making career decisions that work for you](http://www.sciencemag.org/careers/2018/09/these-studies-offer-realistic-view-postdoc-life-and-guidance-making-career-decisions) and [How to find the right place for your Ph.D. or postdoc](http://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc)
 
-–	How to find the right place for your Ph.D. or postdoc: http://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc
+–	[University of Huddersfield's career office](https://students.hud.ac.uk/careers/mycareerplus/)
 
 ### CVs
 
-–	https://www.jobs.ac.uk/careers-advice/cv-templates
+–	[jobs.ac.uk CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates)
 
-–	https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv
+–	[prospects.ac.uk How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv)
 
 ### How to read a scientific paper
 
-–	http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
+–	[How to read and understand a scientific paper](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
-–	https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/
+–	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
