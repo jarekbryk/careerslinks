@@ -59,9 +59,9 @@ This is a collection of links about sources of funding (placements and postgradu
 
 –	Presentations from 2018 Royal Society of Biology Bioscience Careers Day http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187 (this is happening every year)
 
-–	There is yearly HUBS Careers day in April but it didn’t go well last year; The Chemistry one is much better apparently and also worth attending by biologists
+–	There is yearly HUBS Careers day in April (Biology and Chemistry)
 
-–	There is an annual seminar on “how to be(come) an academic”, focused more on PhD students run by Gareth Parkes from Chemistry
+–	There is an annual seminar on “how to be(come) an academic”, focused more on PhD students run by Dr Gareth Parkes from Chemistry
 
 –	https://www.york.ac.uk/media/studenthome/workandvolunteering/infosheets/considering/science-careers-outside-the-Lab.pdf
 
