@@ -1,7 +1,7 @@
 
 ## Funding, placements, CVs, careers
 
-If you overwhelmed by all this, start with these four:
+### If you overwhelmed by all this, start with these four:
 
 –	Dieter Lukas’ academic life and career thoughts: https://dieterlukas.github.io/academiccareer.html
 
@@ -11,7 +11,7 @@ If you overwhelmed by all this, start with these four:
 
 –	If you’re thinking of an academic research career with the goal of being a lecturer, think again and prepare extensively and very carefully, because you will most likely fail: [Taylor, J. Q. et al. Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393). Read this report as well: [2014 report on comparison of different academic careers structure and opportunities in different European countries.](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769)
 
-General
+### General
 
 –	List of placements and advice, dedicated to undergraduates, UK-centered: http://intobiology.org.uk/summer-vacation-placements/
 
@@ -25,7 +25,7 @@ General
 
 –	Great profiles of non-traditional careers from life scientists, published weekly by the Researcher Development team at the University of Sheffield: https://thinkaheadsheffield.wordpress.com/tag/sheffvista/
 
-Funding
+### Funding
 
 –	https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/ (there is also opportunity for PhD students to do some mentoring/training there: https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/)
 
@@ -57,7 +57,7 @@ Funding
 
 –	https://www.wiko-berlin.de/fellows/fellowships/college-for-life-sciences/
 
-Industry-related stuff and non-academic careers
+### Industry-related stuff and non-academic careers
 
 –	Presentations from 2018 Royal Society of Biology Bioscience Careers Day http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187 (this is happening every year)
 
@@ -92,7 +92,7 @@ You may find useful the following documents which are available on the website a
 ·         [NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP recruitment process, as do Wales and Northern Ireland (will update when info becomes available)
 ·         Applicants should contact the NSHCS for general queries regarding the national recruitment process: hcsapplicants@hee.nhs.uk. All the information and possible questions are covered on the guide and the [FAQ section](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions) on the NSHCS website.
 
-Conferences
+### Conferences
 
 –	Funding for conference travel for PIs who are members of the BSCB https://bscb.org/competitions-awardsgrants/cob-support-grants/
 
@@ -110,7 +110,7 @@ All of the below conferences and meeding are very UG-friendly:
 
 –	We also have a local bioinformatic/computational biology group, who meets 3-4 times a year and where students are welcome: https://northernbug.github.io
 
-Career advice
+### Career advice
 
 –	[The Baskett Lab: Grant and job resources](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html)  US-centred but a lot of career advise resources that are generally applicable
 
@@ -124,13 +124,13 @@ Career advice
 
 –	How to find the right place for your Ph.D. or postdoc: http://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc
 
-CVs
+### CVs
 
 –	https://www.jobs.ac.uk/careers-advice/cv-templates
 
 –	https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv
 
-How to read a scientific paper
+### How to read a scientific paper
 
 –	http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
 
