@@ -1,7 +1,7 @@
 
 ## Funding, placements, CVs, careers
 
-This is a collection of links about sources of funding (placements and postgraduate) and career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it more UK-centred compared to what is available on the web already. PRs welcome!
+This is a collection of links about sources of funding (placements and postgraduate) and career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it more UK-centred than what is available on the web already. PRs welcome!
 
 ### Start here
 
@@ -23,7 +23,7 @@ These four links should give you a good idea on what these resources are about.
 
 - Annual HUBS Careers day for Biology and Chemistry, typically in April.
 
-- Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences students and highly recommended to final year undergraduates and PhD students).
+- Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences students and highly recommended for the final year undergraduates and PhD students).
 
 - There is also a local (Kirklees-based) Tinker Fisher Awards scheme for summer placements' funding and an internal funding available to support travel expenses for undergraduates at the University of Huddersfield.
 
