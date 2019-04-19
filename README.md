@@ -1,23 +1,23 @@
 
 ## Funding, placements, CVs, careers
 
-This is a collection of links about sources of funding (placements and postgraduate) and  career advice I have collected to be able to send students who ask me about this to this central place. I tried to make it more UK-centred compared to what is available on the web already (very much US-centred). PRs welcome!
+This is a collection of links about sources of funding (placements and postgraduate) and  career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it more UK-centred compared to what is available on the web already. PRs welcome!
 
 ### If you overwhelmed by all this, start with these four:
 
-–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-) 
+–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-)
 
-–	[Dieter Lukas](http://dieterlukas.strikingly.com/)' massive lists of funding opportunities, with focus on early-career researchers (scroll down to “Resources” section)
+–	[Dieter Lukas' massive lists of funding opportunities](http://dieterlukas.strikingly.com/), with focus on early-career researchers (scroll down to “Resources” section)
 
 –	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered
 
-–	If you’re thinking of an academic research career with the goal of being a lecturer, think again and prepare extensively and very carefully, because you will most likely fail: [Taylor, J. Q. et al. Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393). Read this report as well: [2014 report on comparison of different academic careers structure and opportunities in different European countries.](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769)
+–	If you’re thinking of an academic research career with the goal of being a lecturer, **think again**. Prepare extensively and very carefully, because you will most likely fail: [Taylor, J. Q. et al. Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393). Read this report as well: [2014 report on comparison of different academic careers structure and opportunities in different European countries](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769).
 
 ### General
 
 –	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered
 
-–	[Dieter Lukas](http://dieterlukas.strikingly.com/)' massive lists of funding opportunities, with focus on early-career researchers (scroll down to “Resources” section)
+–	[Dieter Lukas' massive lists of funding opportunities](http://dieterlukas.strikingly.com/), with focus on early-career researchers (scroll down to “Resources” section)
 
 –	[Resources for undergraduates from the British Ecological Society](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/)
 
@@ -25,7 +25,7 @@ This is a collection of links about sources of funding (placements and postgradu
 
 –	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers
 
-–	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers from life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here that "non-traditional career" name is misleding, as vast majority of life science students do not end up being lecturers; the academic career is _de facto_ an alternative career choice - see the Taylor _et al._ 2016 paper in eLife).
+–	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is _de facto_ an alternative career choice - see the Taylor _et al._ 2016 paper in eLife).
 
 ### Funding
 
@@ -33,11 +33,11 @@ This is a collection of links about sources of funding (placements and postgradu
 
 –	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/), [Undergraduate Research Opportunities at the University of Reading]( http://www.reading.ac.uk/internal/urop/urop_home.aspx) and [KCL](https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx) (there is one at Imperial College London as well).
 
-–	[Medical Research Scotlands funds summer research placements, among other things](https://medicalresearchscotland.org.uk/applying-for-funding/)
+–	[Medical Research Scotland funds summer research placements](https://medicalresearchscotland.org.uk/applying-for-funding/), among other things
 
 –	[Leverhulme Trust's study abroad studenthips](https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships) (_update - UK students are no longer elligible due to Brexit_)
 
-–	http://www.csic.es/programa-jae
+–	[The Spanish National Research Council's JAE Programme](http://www.csic.es/programa-jae) "is focused to university students with an excellent academic record interested in starting a research career, making possible the realization of a period of fellowship in one of the research groups that develop their work in the CSIC institutes, their mixed centres and their units" (I believe this is an imperfect English translation...)
 
 –	[Industral Summer Placements with the Royal Society of Biology](https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements)
 
@@ -49,15 +49,17 @@ This is a collection of links about sources of funding (placements and postgradu
 
 –	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx)
 
-–	[Amgen Scholars Progra](http://amgenscholars.com)
+–	[Amgen Scholars Programme](http://amgenscholars.com)
 
-–	http://lido-dtp.ac.uk/index.html
+### PhDs and post-PhDs
 
-–	https://www.wiko-berlin.de/fellows/fellowships/college-for-life-sciences/
+–	[The London Interdisciplinary Biosciences Consortium](http://lido-dtp.ac.uk/index.html) is one of the largest BBSRC funded Doctoral Training Partnerships in the UK. Representing an exciting collaboration between six of London's world-class universities and specialist institutions, the consortium provides students with a unique opportunity to pursue innovative interdisciplinary research projects in the heart of one of the world's most vibrant cities.
+
+–	[The College for Life Sciences is a unique program of the Wissenschaftskolleg zu Berlin, Institute for Advanced Study](https://www.wiko-berlin.de/fellows/fellowships/college-for-life-sciences/), to promote excellent early-career postdoctoral researchers in the life sciences and medicine.
 
 ### Industry-related stuff and non-academic careers
 
-–	Presentations from 2018 Royal Society of Biology Bioscience Careers Day http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187 (this is happening every year)
+–	Presentations from 2018 Royal Society of Biology Bioscience Careers Day http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187 (this event happens every year)
 
 –	There is yearly HUBS Careers day in April (Biology and Chemistry)
 
@@ -69,7 +71,7 @@ This is a collection of links about sources of funding (placements and postgradu
 
 –	Non-Academic Career Options After your PhD https://www.jobs.ac.uk/careers-advice/studentships/1998/non-academic-career-options-after-your-phd
 
-–	Genetic Counsellor Registration Board http://www.gcrb.org.uk/public/ 
+–	Genetic Counsellor Registration Board http://www.gcrb.org.uk/public/
 
 –	NHS STP http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme
 
@@ -87,7 +89,7 @@ This is a collection of links about sources of funding (placements and postgradu
 
 ### Conferences
 
-All of the below conferences and meeding are very undergraduate-friendly:
+All of the below conferences and meetings are undergraduate-friendly:
 
 –	[The Mammal Society 7th Student Conference](http://www.mammal.org.uk/events/the-mammal-society-7th-student-conference/)
 
@@ -105,13 +107,13 @@ In addition to that:
 
 ### Career advice
 
-–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-) 
+–	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-)
 
 –	[The Baskett Lab: Grant and job resources](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html)  US-centred but a lot of career advise resources that are generally applicable
 
 –	Aerin Jacob's [massive list of funding & awards sources](http://www.aerinjacob.ca/funding--awards.html) (mulfple career stages)
 
-–	2014 report on comparison of different academic careers structure and opportunities in different European countries (very useful if you’re thinking of academic research career): https://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769
+–	Very useful [2014 report on comparison of different academic careers structure and opportunities in different European countries](https://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769) if you’re thinking of academic research career
 
 –	Two articles in Science: [These studies offer a realistic view of postdoc life—and guidance for making career decisions that work for you](http://www.sciencemag.org/careers/2018/09/these-studies-offer-realistic-view-postdoc-life-and-guidance-making-career-decisions) and [How to find the right place for your Ph.D. or postdoc](http://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc)
 
@@ -119,13 +121,12 @@ In addition to that:
 
 ### CVs
 
-–	[jobs.ac.uk CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates)
+–	jobs.ac.uk's [CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates)
 
-–	[prospects.ac.uk How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv)
+–	Prospect's [How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv)
 
 ### How to read a scientific paper
 
 –	[How to read and understand a scientific paper](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 –	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
-
