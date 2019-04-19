@@ -1,7 +1,7 @@
 
 ## Funding, placements, CVs, careers
 
-This is a collection of links about sources of funding (placements and postgraduate) and  career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it more UK-centred compared to what is available on the web already. PRs welcome!
+This is a collection of links about sources of funding (placements and postgraduate) and career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it more UK-centred compared to what is available on the web already. PRs welcome!
 
 ### If you overwhelmed by all this, start with these four:
 
