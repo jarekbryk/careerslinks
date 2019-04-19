@@ -45,7 +45,7 @@ These four links should give you a good idea on what these resources are about.
 
 - [Undergraduate Research Opportunities at the University of Reading]( http://www.reading.ac.uk/internal/urop/urop_home.aspx) and [at King's College London](https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx) (there is one at Imperial College London as well).
 
-–	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh])(https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh).
+–	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh](https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh).
 
 –	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
 
