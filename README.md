@@ -21,11 +21,11 @@ These four links should give you a good idea on what these resources are about.
 
 –	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/).
 
-- Annual HUBS Careers day for Biology and Chemistry, typically in April.
+–	Annual HUBS Careers day for Biology and Chemistry, typically in April.
 
-- Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences' students and highly recommended for the final year undergraduates and PhD students).
+–	Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences' students and highly recommended for the final year undergraduates and PhD students).
 
-- There is also a local (Kirklees-based) Tinker Fisher Awards scheme for summer placements' funding and an internal funding available to support travel expenses for undergraduates at the University of Huddersfield.
+–	There is also a local (Kirklees-based) Tinker Fisher Awards scheme for summer placements' funding and an internal funding available to support travel expenses for undergraduates at the University of Huddersfield.
 
 ### General
 
