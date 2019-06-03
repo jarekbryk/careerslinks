@@ -61,6 +61,8 @@ These four links should give you a good idea on what these resources are about.
 
 –	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships).
 
+- [Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/)
+
 –	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
 
 –	[Amgen Scholars Programme](http://amgenscholars.com).
@@ -123,6 +125,8 @@ In addition to that:
 
 ### CVs
 
+- [22 tips for writing academic cvs and covering letters](https://visualmethodculture.wordpress.com/2019/05/24/22-tips-for-writing-academic-cvs-and-covering-letters/). Prof. Gillian Rose from Oxford University shares her hard-earned experience on CVs and cover letters (as a member of hiring panels).
+
 –	jobs.ac.uk's [CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates).
 
 –	prospect.ac.uk's [How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv).
@@ -132,3 +136,5 @@ In addition to that:
 –	[How to read and understand a scientific paper](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/) by Jennifer Raff.
 
 –	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) from _Science_.
+
+- [What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/),a multi-part blog post by Elisabeth Bik.
