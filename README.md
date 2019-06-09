@@ -1,4 +1,3 @@
-
 ## Funding, placements, CVs, careers
 
 This is a collection of links about sources of funding (placements and postgraduate) and career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it a bit more UK-centred than what is available on the web already. PRs welcome!
@@ -38,6 +37,8 @@ These four links should give you a good idea on what these resources are about.
 –	[Advice on placements](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx) resources at the University of Nottingham.
 
 –	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
+
+- A guy I met on a conference, Richi, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the place. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
 
 –	Do not miss this bit for a little laugh: [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
