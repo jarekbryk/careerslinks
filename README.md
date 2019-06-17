@@ -38,7 +38,7 @@ These four links should give you a good idea on what these resources are about.
 
 –	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
 
-- A guy I met on a conference, Richi, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the place. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
+- Richi De-Kayne, a PhD student in Bern, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the world. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
 
 –	Do not miss this bit for a little laugh: [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
@@ -92,9 +92,9 @@ These four links should give you a good idea on what these resources are about.
 
 –	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP programme recruitment process, as do Wales and Northern Ireland.
 
-- [British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes).
+- [British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
 
-The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
+- [Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
 
 ### Conferences
 
