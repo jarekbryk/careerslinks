@@ -76,6 +76,8 @@ These four links should give you a good idea on what these resources are about.
 
 –	[Presentations from careers’ fair in Manchester 2018](https://www.rsb.org.uk/careers-and-cpd/careers/bioscience-careers-day/careers-presentations) from the Royal Society of Biology (even more resources than the link above).
 
+- [Industrial Biotechnology Careers Fair](https://www.eventbrite.co.uk/e/industrial-biotechnology-careers-fair-registration-61864385041#), yearly event in Manchester aimed at early career researchers who are interested in future careers in the industrial biotechnology and bioenergy (IBBE) sector.
+
 –	[Careers conference for undergraduates](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/) by the British Ecological Society.
 
 –	[Science careers outside the lab](https://www.york.ac.uk/media/studenthome/workandvolunteering/infosheets/considering/science-careers-outside-the-Lab.pdf) from the University of York.
