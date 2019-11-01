@@ -42,6 +42,8 @@ These four links should give you a good idea on what these resources are about.
 
 - Richi De-Kayne, a PhD student in Bern, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the world. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
 
+- Prospects Luminate has [several reports on the gradaute job market](https://luminate.prospects.ac.uk/tag/reports), particularly: [What do graduates do? Regional edition](https://luminate.prospects.ac.uk/what-do-graduates-do-regional-edition).
+
 –	Do not miss this bit for a little laugh: [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
 ### Funding
