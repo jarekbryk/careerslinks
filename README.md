@@ -52,6 +52,8 @@ These four links should give you a good idea on what these resources are about.
 
 –	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh](https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh).
 
+- [Biomedical Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
+
 –	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
 
 –	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/) (there is also [opportunity for PhD students to do some mentoring/training there](https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/))
