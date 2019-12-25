@@ -16,6 +16,8 @@ These four links should give you a good idea on what these resources are about.
 
 –	If you’re thinking of an academic research career with the goal of being a lecturer, **think again** - the academic research career has become an _alternative career_: most students do not become lecturers. Read the paper by [Taylor, J. Q. _et al._ Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393) and this [report from the League of European Research Universities](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769) on comparison of different academic career structures and opportunities in different European countries.
 
+- Always prepare for the fact that your next position may not be in academia: [a very good point of view from Michael Whitehead](https://michaelwhitehead.net/2019/12/18/the-resilient-postdoc-keep-the-exit-rows-clear-at-all-times/).
+
 ### Local resources at the University of Huddersfield
 
 –	[University of Huddersfield's career office](https://students.hud.ac.uk/careers/mycareerplus/).
