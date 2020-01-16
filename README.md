@@ -74,7 +74,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs apprenticeship scheme and of course they have a factory here at Huddersfield.
 
-- [Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/)
+- [Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/).
 
 –	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
 
@@ -82,7 +82,7 @@ These links should give you a good idea on what these resources are about.
 
 ### Industry-related stuff and non-academic careers
 
-- [Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February)
+- [Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February).
 
 - [European Commission Traineeships](https://ec.europa.eu/stages/): "twice a year, the European Commission offers 1800 paid, 5-month administrative or translation traineeships. Starting on 1 March or 1 October, trainees gain hands-on experience in EU policymaking in a multicultural environment."
 
@@ -102,7 +102,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
 
-–	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well)
+–	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well).
 
 –	[Genetic Counsellor Registration Board](http://www.gcrb.org.uk/public/) for those considering becoming a genetic counsellor.
 
