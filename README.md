@@ -46,7 +46,7 @@ These links should give you a good idea on what these resources are about.
 
 - Prospects Luminate has [several reports on the gradaute job market](https://luminate.prospects.ac.uk/tag/reports), particularly: [What do graduates do? Regional edition](https://luminate.prospects.ac.uk/what-do-graduates-do-regional-edition).
 
-–	Do not miss this bit for a little laugh: [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
+–	Do not miss this bit for a little laugh (through the tears): [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
 ### Funding
 
