@@ -41,7 +41,9 @@ These links should give you a good idea on what these resources are about.
 –	[Advice on placements](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx) resources at the University of Nottingham.
 
 –	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
+
 - Richi De-Kayne, a PhD student in Bern, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the world. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
+
 - Prospects Luminate has [several reports on the gradaute job market](https://luminate.prospects.ac.uk/tag/reports), particularly: [What do graduates do? Regional edition](https://luminate.prospects.ac.uk/what-do-graduates-do-regional-edition).
 
 –	Do not miss this bit for a little laugh: [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
