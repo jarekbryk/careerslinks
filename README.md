@@ -72,7 +72,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[Industral Summer Placements with the Royal Society of Biology](https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements).
 
-–	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships).
+–	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs apprenticeship scheme and of course they have a factory here at Huddersfield.
 
 - [Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/)
 
