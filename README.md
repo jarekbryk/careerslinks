@@ -132,6 +132,8 @@ In addition to that:
 
 ### Career advice
 
+–	Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
+
 –	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-)
 
 –	[The Baskett Lab: Grant and job resources](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html) US-centred but a lot of career advise resources that are generally applicable.
