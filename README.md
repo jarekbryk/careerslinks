@@ -6,7 +6,7 @@ This is a collection of links about sources of funding (placements and postgradu
 
 ### Start here
 
-These four links should give you a good idea on what these resources are about.
+These links should give you a good idea on what these resources are about.
 
 –	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-)
 
@@ -16,7 +16,9 @@ These four links should give you a good idea on what these resources are about.
 
 –	If you’re thinking of an academic research career with the goal of being a lecturer, **think again** - the academic research career has become an _alternative career_: most students do not become lecturers. Read the paper by [Taylor, J. Q. _et al._ Avoiding a lost generation of scientists. eLife 5, 1–5 (2016)](https://elifesciences.org/articles/17393) and this [report from the League of European Research Universities](http://www.ub.edu/portal/documents/34829/458399/LERU_AP17_tenure_track_final%5B1%5D.pdf/71d48297-0158-4785-bbcf-b2976575e769) on comparison of different academic career structures and opportunities in different European countries.
 
-- Always prepare for the fact that your next position may not be in academia: [a very good point of view from Michael Whitehead](https://michaelwhitehead.net/2019/12/18/the-resilient-postdoc-keep-the-exit-rows-clear-at-all-times/).
+–	Always prepare for the fact that your next position may not be in academia: [a very good point of view from Michael Whitehead](https://michaelwhitehead.net/2019/12/18/the-resilient-postdoc-keep-the-exit-rows-clear-at-all-times/).
+
+- Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK
 
 ### Local resources at the University of Huddersfield
 
@@ -56,6 +58,8 @@ These four links should give you a good idea on what these resources are about.
 
 - [Biomedical Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
 
+- [The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
+
 –	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
 
 –	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/) (there is also [opportunity for PhD students to do some mentoring/training there](https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/))
@@ -78,6 +82,10 @@ These four links should give you a good idea on what these resources are about.
 
 ### Industry-related stuff and non-academic careers
 
+- [Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February)
+
+- [European Commission Traineeships](https://ec.europa.eu/stages/): "twice a year, the European Commission offers 1800 paid, 5-month administrative or translation traineeships. Starting on 1 March or 1 October, trainees gain hands-on experience in EU policymaking in a multicultural environment."
+
 –	Presentations from the annual [Royal Society of Biology Bioscience Careers Day](http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187). Lots of advice there on different career paths for broadly-defined bioscience students.
 
 –	[Presentations from careers’ fair in Manchester 2018](https://www.rsb.org.uk/careers-and-cpd/careers/bioscience-careers-day/careers-presentations) from the Royal Society of Biology (even more resources than the link above).
@@ -94,11 +102,13 @@ These four links should give you a good idea on what these resources are about.
 
 –	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
 
-–	Melisa Wilson-Sayres' list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well)
+–	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well)
 
 –	[Genetic Counsellor Registration Board](http://www.gcrb.org.uk/public/) for those considering becoming a genetic counsellor.
 
 –	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme), including [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements), [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf),  [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf),  [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf), [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf), [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf), [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days), [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers) and [FAQ](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions).
+
+- [NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
 
 –	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP programme recruitment process, as do Wales and Northern Ireland.
 
