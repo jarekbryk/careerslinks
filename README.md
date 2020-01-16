@@ -54,9 +54,9 @@ These links should give you a good idea on what these resources are about.
 
 –	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh](https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh).
 
-- [Biomedical Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
+–	[Biomedical Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
 
-- [The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
+–	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
 –	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
 
@@ -72,7 +72,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs apprenticeship scheme and of course they have a factory here at Huddersfield.
 
-- [Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/).
+–	[Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/).
 
 –	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
 
@@ -80,15 +80,15 @@ These links should give you a good idea on what these resources are about.
 
 ### Industry-related stuff and non-academic careers
 
-- [Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February).
+–	[Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February).
 
-- [European Commission Traineeships](https://ec.europa.eu/stages/): "twice a year, the European Commission offers 1800 paid, 5-month administrative or translation traineeships. Starting on 1 March or 1 October, trainees gain hands-on experience in EU policymaking in a multicultural environment."
+–	[European Commission Traineeships](https://ec.europa.eu/stages/): "twice a year, the European Commission offers 1800 paid, 5-month administrative or translation traineeships. Starting on 1 March or 1 October, trainees gain hands-on experience in EU policymaking in a multicultural environment."
 
 –	Presentations from the annual [Royal Society of Biology Bioscience Careers Day](http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187). Lots of advice there on different career paths for broadly-defined bioscience students.
 
 –	[Presentations from careers’ fair in Manchester 2018](https://www.rsb.org.uk/careers-and-cpd/careers/bioscience-careers-day/careers-presentations) from the Royal Society of Biology (even more resources than the link above).
 
-- [Industrial Biotechnology Careers Fair](https://www.eventbrite.co.uk/e/industrial-biotechnology-careers-fair-registration-61864385041#), yearly event in Manchester aimed at early career researchers who are interested in future careers in the industrial biotechnology and bioenergy (IBBE) sector.
+–	[Industrial Biotechnology Careers Fair](https://www.eventbrite.co.uk/e/industrial-biotechnology-careers-fair-registration-61864385041#), yearly event in Manchester aimed at early career researchers who are interested in future careers in the industrial biotechnology and bioenergy (IBBE) sector.
 
 –	[Careers conference for undergraduates](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/) by the British Ecological Society.
 
@@ -106,13 +106,13 @@ These links should give you a good idea on what these resources are about.
 
 –	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme), including [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements), [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf),  [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf),  [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf), [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf), [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf), [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days), [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers) and [FAQ](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions).
 
-- [NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
+–	[NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
 
 –	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP programme recruitment process, as do Wales and Northern Ireland.
 
-- [British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
+–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
 
-- [Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
+–	[Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
 
 ### Conferences
 
@@ -146,7 +146,7 @@ In addition to that:
 
 ### CVs
 
-- [22 tips for writing academic cvs and covering letters](https://visualmethodculture.wordpress.com/2019/05/24/22-tips-for-writing-academic-cvs-and-covering-letters/). Prof. Gillian Rose from Oxford University shares her hard-earned experience on CVs and cover letters (as a member of hiring panels).
+–	[22 tips for writing academic cvs and covering letters](https://visualmethodculture.wordpress.com/2019/05/24/22-tips-for-writing-academic-cvs-and-covering-letters/). Prof. Gillian Rose from Oxford University shares her hard-earned experience on CVs and cover letters (as a member of hiring panels).
 
 –	jobs.ac.uk's [CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates).
 
@@ -158,4 +158,4 @@ In addition to that:
 
 –	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) from _Science_.
 
-- [What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/),a multi-part blog post by Elisabeth Bik.
+–	[What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/),a multi-part blog post by Elisabeth Bik.
