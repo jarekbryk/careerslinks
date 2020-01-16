@@ -16,7 +16,7 @@ These links should give you a good idea on what these resources are about.
 
 –	Always prepare for the fact that your next position may not be in academia: [a very good point of view from Michael Whitehead](https://michaelwhitehead.net/2019/12/18/the-resilient-postdoc-keep-the-exit-rows-clear-at-all-times/).
 
-–	Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK
+–	Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
 
 ### Local resources at the University of Huddersfield
 
