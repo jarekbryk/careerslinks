@@ -40,6 +40,8 @@ These links should give you a good idea on what these resources are about.
 
 –	[Advice on placements](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx) resources at the University of Nottingham.
 
+–	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
+
 –	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
 
 –	Richi De-Kayne, a PhD student in Bern, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the world. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
@@ -58,11 +60,13 @@ These links should give you a good idea on what these resources are about.
 
 –	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
-–	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
-
 –	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/) (there is also [opportunity for PhD students to do some mentoring/training there](https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/))
 
 –	[Medical Research Scotland summer research placements](https://medicalresearchscotland.org.uk/applying-for-funding/) funding programme.
+
+–	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
+
+–	[Summer Vacation Studentships with British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/studentships/).
 
 –	[Leverhulme Trust's study abroad studenthips](https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships) (_update - UK students are no longer elligible due to Brexit_).
 
@@ -70,11 +74,11 @@ These links should give you a good idea on what these resources are about.
 
 –	[Industral Summer Placements with the Royal Society of Biology](https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements).
 
-–	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs apprenticeship scheme and of course they have a factory here at Huddersfield.
+–	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs an apprenticeship scheme and of course they have a factory here in Huddersfield.
 
 –	[Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/).
 
-–	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
+–	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
 
 –	[Amgen Scholars Programme](http://amgenscholars.com).
 
@@ -98,21 +102,21 @@ These links should give you a good idea on what these resources are about.
 
 –	[Non-Academic Career Options After your PhD](https://www.jobs.ac.uk/careers-advice/studentships/1998/non-academic-career-options-after-your-phd) from the good people at jobs.ac.uk.
 
-–	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
-
 –	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well).
 
 –	[Genetic Counsellor Registration Board](http://www.gcrb.org.uk/public/) for those considering becoming a genetic counsellor.
+
+–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
+
+–	[Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
+
+### NHS Scientist Training Programme
 
 –	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme), including [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements), [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf),  [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf),  [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf), [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf), [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf), [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days), [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers) and [FAQ](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions).
 
 –	[NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
 
 –	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP programme recruitment process, as do Wales and Northern Ireland.
-
-–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
-
-–	[Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
 
 ### Conferences
 
