@@ -50,6 +50,9 @@ These links should give you a good idea on what these resources are about.
 
 –	Do not miss this bit for a little laugh (through the tears): [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
+–	Last but not least: [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/) by Casey Bergman.
+
+
 ### Funding
 
 –	[Undergraduate Research Opportunities at the University of Reading]( http://www.reading.ac.uk/internal/urop/urop_home.aspx) and [at King's College London](https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx) (there is one at Imperial College London as well).
