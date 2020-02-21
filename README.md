@@ -63,7 +63,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
-–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/summer-school/) (there is also [opportunity for PhD students to do some mentoring/training there](https://www.britishecologicalsociety.org/learning-and-resources/career-development/postgraduates-phds/))
+–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/) (check also their [career development resources](https://www.britishecologicalsociety.org/learning-and-resources/career-development/career-development-resources/))
 
 –	[Medical Research Scotland summer research placements](https://medicalresearchscotland.org.uk/applying-for-funding/) funding programme.
 
