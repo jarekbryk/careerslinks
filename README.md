@@ -111,6 +111,8 @@ These links should give you a good idea on what these resources are about.
 
 –	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
 
+–	[British Science Associacion Media Fellows](https://www.britishscienceassociation.org/media-fellows) programme: "The British Science Association Media Fellowships provide a unique opportunity for practising scientists, clinicians and engineers to spend two to six weeks working at the heart of a media outlet such as the Guardian, BBC Breakfast or the Londonist."
+
 –	[Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
 
 ### NHS Scientist Training Programme
