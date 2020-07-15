@@ -24,6 +24,8 @@ These links should give you a good idea on what these resources are about.
 
 –	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/).
 
+–	[Bionow jobs](https://bionow.co.uk/jobs) "Bionow supports business growth, competitiveness and innovation within the biomedical and life science sectors across Northern England." University of Huddersfield is a member of this organisation and therefore has access to its regional (and beyond) job offers.
+
 –	Annual HUBS Careers Day for biology and chemistry, typically in April.
 
 –	Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences' students and highly recommended for the final year undergraduates and PhD students).
@@ -33,6 +35,8 @@ These links should give you a good idea on what these resources are about.
 ### General
 
 –	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered.
+
+–	[Health and Safety Executive](https://committedtoscience.org.uk) is having a large recruitment drive later this year (2020). Register your interest on that page.
 
 –	[Dieter Lukas' massive lists of funding opportunities](http://dieterlukas.strikingly.com/), with focus on early-career researchers (scroll down to “Resources” section).
 
