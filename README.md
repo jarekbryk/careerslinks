@@ -113,9 +113,9 @@ These links should give you a good idea on what these resources are about.
 
 ### NHS Scientist Training Programme
 
-–	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme) and the beginning of the [applicants section](http://www.nshcs.hee.nhs.uk/programmes/stp/applicants/)
+–	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme) and the beginning of the [applicants section](http://www.nshcs.hee.nhs.uk/programmes/stp/applicants/).
 
-–	[NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
+–	[NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be).
 
 –	[NHS Scotland](https://www.nes.scot.nhs.uk/our-work/clinical-scientist-pre-registration-training/) has a different STP-like programme.
 
@@ -161,6 +161,6 @@ In addition to that:
 
 –	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) from _Science_.
 
-- [How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann  
+-	[How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann .
 
 –	[What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/), a multi-part blog post by Elisabeth Bik.
