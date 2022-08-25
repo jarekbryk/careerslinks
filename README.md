@@ -36,15 +36,15 @@ These links should give you a good idea on what these resources are about.
 
 –	["Into Biology" list of placements and advice](http://intobiology.org.uk/summer-vacation-placements/), dedicated to undergraduates, UK-centered.
 
-–	[Health and Safety Executive](https://committedtoscience.org.uk) is having a large recruitment drive later this year (2020). Register your interest on that page.
-
 –	[Dieter Lukas' massive lists of funding opportunities](http://dieterlukas.strikingly.com/), with focus on early-career researchers (scroll down to “Resources” section).
 
-–	[Resources for undergraduates from the British Ecological Society](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/).
+–	[Resources for undergraduates from the British Ecological Society](https://www.britishecologicalsociety.org/learning-and-resources/career-development/).
 
 –	[Advice on placements](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx) resources at the University of Nottingham.
 
 –	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
+
+- [Austin Z. Henley's _Lessons from my PhD_](https://austinhenley.com/blog/lessonsfrommyphd.html). "Most of what I learned during my PhD had nothing to do with my dissertation topic, grad school, or even computer science. I've written down a few of the lessons in hopes that my students find them useful."
 
 –	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
 
@@ -59,51 +59,43 @@ These links should give you a good idea on what these resources are about.
 
 ### Funding
 
-–	[Undergraduate Research Opportunities at the University of Reading]( http://www.reading.ac.uk/internal/urop/urop_home.aspx) and [at King's College London](https://www.kcl.ac.uk/campuslife/ke/ug-rfs/UGRFS-Home.aspx) (there is one at Imperial College London as well).
-
 –	List of [undergraduate vacation scholarship funding opportunities from the University of Edinburgh](https://www.edinburghneuroscience.ed.ac.uk/undergraduate-vacation-scholarship-funding-opportunities) (but not limited to Edinburgh).
 
-–	[Biomedical Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
+–	[Biomedical Vacation Scholarships](https://wellcome.org/grant-funding/schemes/biomedical-vacation-scholarships) funded by Wellcome Trust: "These awards provide promising undergraduates with hands-on experience of research during the summer holidays, with the aim of encouraging them to consider a career in research."
 
 –	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
 –	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/) (check also their [career development resources](https://www.britishecologicalsociety.org/learning-and-resources/career-development/career-development-resources/))
 
-–	[Medical Research Scotland summer research placements](https://medicalresearchscotland.org.uk/applying-for-funding/) funding programme.
+–	[Medical Research Scotland summer research placements](https://www.medicalresearchscotland.org.uk/undergraduate-vacation-scholarship/) funding programme.
 
-–	[Summer Vacation Studentships with Biochemical Society](http://www.biochemistry.org/Grants/SummerVacationStudentships.aspx).
+–	[Summer Vacation Studentships with Biochemical Society](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/) and their [Student Bursaries](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/student-bursaries/).
 
 –	[Summer Vacation Studentships with British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/studentships/).
 
-–	[Leverhulme Trust's study abroad studenthips](https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships) (_update - UK students are no longer elligible due to Brexit_).
-
-–	[The Spanish National Research Council's JAE Programme](http://www.csic.es/programa-jae) "is focused to university students with an excellent academic record interested in starting a research career, making possible the realization of a period of fellowship in one of the research groups that develop their work in the CSIC institutes, their mixed centres and their units" (I believe this is an imperfect English translation, but the programme is not limited to Spanish students).
+–	[The Spanish National Research Council's JAE Programme](https://www.csic.es/en/training-and-employment/training-research-personnel/bachelor’s-degree/scholarships-for-starting-a-research-career-csic’s-jae-intro) "is focused to university students with an excellent academic record interested in starting a research career, making possible the realization of a period of fellowship in one of the research groups that develop their work in the CSIC institutes, their mixed centres and their units" (I believe this is an imperfect English translation, but the programme is not limited to Spanish students).
 
 –	[Industral Summer Placements with the Royal Society of Biology](https://www.rsb.org.uk/careers-and-cpd/careers/industrial-summer-placements).
 
 –	[Summer Vacation Work at Syngenta](https://www.syngenta.co.uk/summer-internships). Syngenta also runs an apprenticeship scheme and of course they have a factory here in Huddersfield.
 
-–	[Research Assistant Placement at Quadram Institute Bioscience in Norwich](https://quadram.ac.uk/vacancies/research-assistant-research-experience-placement/).
-
-–	[Research internships at Okinawa Institute for Science and Technology](https://groups.oist.jp/grad/research-interns).
+–	[Research internships at Okinawa Institute for Science and Technology](https://admissions.oist.jp/apply-research-internship).
 
 –	[Amgen Scholars Programme](http://amgenscholars.com).
 
 ### Industry-related stuff and non-academic careers
 
-–	[Kirklees Apprenticeship Event](https://ckcareersonline.org.uk/news-2/195-kirklees-apprenticeship-event) (the date changes yearly, but it's usually around February).
+–	[Kirklees Careers Service](https://ck.mydirections.co.uk).
 
 –	[European Commission Traineeships](https://ec.europa.eu/stages/): "twice a year, the European Commission offers 1800 paid, 5-month administrative or translation traineeships. Starting on 1 March or 1 October, trainees gain hands-on experience in EU policymaking in a multicultural environment."
 
-–	Presentations from the annual [Royal Society of Biology Bioscience Careers Day](http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187). Lots of advice there on different career paths for broadly-defined bioscience students.
+–	Presentations from the annual [Royal Society of Biology Bioscience Careers Day](http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187). The link goes to the 2018 event. Lots of advice there on different career paths for broadly-defined bioscience students.
 
-–	[Presentations from careers’ fair in Manchester 2018](https://www.rsb.org.uk/careers-and-cpd/careers/bioscience-careers-day/careers-presentations) from the Royal Society of Biology (even more resources than the link above).
+–	Manchester Careers Fair 2022 [Presentations from careers’ fair in Manchester 2018](https://www.ukcareersfair.com/event/manchester-careers-fair)
 
 –	[Industrial Biotechnology Careers Fair](https://www.eventbrite.co.uk/e/industrial-biotechnology-careers-fair-registration-61864385041#), yearly event in Manchester aimed at early career researchers who are interested in future careers in the industrial biotechnology and bioenergy (IBBE) sector.
 
-–	[Careers conference for undergraduates](https://www.britishecologicalsociety.org/learning-and-resources/career-development/undergraduates/) by the British Ecological Society.
-
-–	[Science careers outside the lab](https://www.york.ac.uk/media/studenthome/workandvolunteering/infosheets/considering/science-careers-outside-the-Lab.pdf) from the University of York.
+–	[Science careers outside the lab](https://www.ncl.ac.uk/careers-occupations/science/out-in-the-field/#about) from the Newcastle University.
 
 –	[Non-academic Careers for PhD Holders](https://www.findaphd.com/advice/doing/phd-non-academic-careers.aspx) from the good people at findaphd.
 
@@ -111,9 +103,9 @@ These links should give you a good idea on what these resources are about.
 
 –	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well).
 
-–	[Genetic Counsellor Registration Board](http://www.gcrb.org.uk/public/) for those considering becoming a genetic counsellor.
+–	[Genetic Counsellor Registration Board](https://gcrb.org.uk) for those considering becoming a genetic counsellor.
 
-–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/post-fellowship/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
+–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/bes-post-fellowship-2021/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
 
 –	[British Science Associacion Media Fellows](https://www.britishscienceassociation.org/media-fellows) programme: "The British Science Association Media Fellowships provide a unique opportunity for practising scientists, clinicians and engineers to spend two to six weeks working at the heart of a media outlet such as the Guardian, BBC Breakfast or the Londonist."
 
@@ -121,21 +113,19 @@ These links should give you a good idea on what these resources are about.
 
 ### NHS Scientist Training Programme
 
-–	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme), including [Entry requirements 2019](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/entry-requirements), [Job description - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-job-description-v1.pdf),  [Person specification - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-person-spec-v2.0.pdf),  [Trainee clinical scientist advert - 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-advert.pdf), [Applicant Recruitment Process Guidance for 2019](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-2019-applicant-guidance-v1.0.pdf), [Competition ratios for the recruitment years of 2014-2018](http://www.nshcs.hee.nhs.uk/images/stp-recruitment/stp-competition-ratios-v1-2018.pdf), [Open days](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/open-days), [University providers](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/university-providers) and [FAQ](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/frequently-asked-questions).
+–	[NHS Scientist Training Programme](http://www.nshcs.hee.nhs.uk/join-programme/nhs-scientist-training-programme/about-the-scientist-training-programme) and the beginning of the [applicants section](http://www.nshcs.hee.nhs.uk/programmes/stp/applicants/)
 
 –	[NHS Scientist Training Programme recruitmet procedure video explainer](https://www.youtube.com/watch?v=0fecE0oyvPQ&feature=youtu.be)
 
-–	[NHS Scotland](https://www.nes.scot.nhs.uk/education-and-training/by-discipline/healthcare-science.aspx) has a different STP programme recruitment process, as do Wales and Northern Ireland.
+–	[NHS Scotland](https://www.nes.scot.nhs.uk/our-work/clinical-scientist-pre-registration-training/) has a different STP-like programme.
 
 ### Conferences
 
 All of the below conferences and meetings are undergraduate-friendly:
 
-–	[The Mammal Society 7th Student Conference](http://www.mammal.org.uk/events/the-mammal-society-7th-student-conference/).
+–	[Manchester Molecular and Genome Evolution Symposium](https://manchestermage.wordpress.com/) (unclear if it recovered from the pandemic).
 
-–	[Manchester Molecular and Genome Evolution Symposium](https://manchestermage.wordpress.com/).
-
-–	[Evolutionary Genetics and Genomics Symposium in Cambridge](https://evolutionarygeneticsandgenomics.com/registrationevolutionary-genetics-and-genomics-symposium/).
+–	[Evolutionary Genetics and Genomics Symposium in Cambridge](https://evolutionarygeneticsandgenomics.com/registrationevolutionary-genetics-and-genomics-symposium/) (unclear if it recovered from the pandemic).
 
 –	We also have a local bioinformatic/computational biology group, which meets 3-4 times a year and where students are very welcome: [NorthernBUG](https://northernbug.github.io).
 
@@ -171,4 +161,6 @@ In addition to that:
 
 –	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) from _Science_.
 
-–	[What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/),a multi-part blog post by Elisabeth Bik.
+- [How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann  
+
+–	[What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/), a multi-part blog post by Elisabeth Bik.
