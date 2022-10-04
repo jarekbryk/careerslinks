@@ -157,10 +157,16 @@ In addition to that:
 
 ### How to read a scientific paper
 
+Start here: "Nothing makes you feel stupid quite like reading a scientific journal article." (by [Adam Rubin in _Science_](https://www.science.org/content/article/how-read-scientific-paper-rev2))
+
 –	[How to read and understand a scientific paper](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/) by Jennifer Raff.
 
-–	[How to seriously read cientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) from _Science_.
+–	[How to seriously read scientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) by Elisabeth Pain in _Science_.
 
--	[How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann .
+-	[How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann.
+
+-	[Learning To Read Scientific Journal Articles](https://bartlettje.github.io/2021-10-06-learning-to-read-scientific-journal-articles/) - an evidence-based overview and an interactive tutorial on how to go about reading a research paper by James Bartlett from the University of Glasgow
+
+-	[Ten simple rules for reading a scientific paper](https://doi.org/10.1371/journal.pcbi.1008032) by Carey MA _et al._ (2020)
 
 –	[What is Research Misconduct?](https://scienceintegritydigest.com/2019/05/28/what-is-research-misconduct-part-1-plagiarism/), a multi-part blog post by Elisabeth Bik.
