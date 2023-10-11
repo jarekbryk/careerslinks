@@ -16,21 +16,17 @@ These links should give you a good idea on what these resources are about.
 
 –	Always prepare for the fact that your next position may not be in academia: [a very good point of view from Michael Whitehead](https://michaelwhitehead.net/2019/12/18/the-resilient-postdoc-keep-the-exit-rows-clear-at-all-times/).
 
-–	Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
+–	Interactive [academic research career flowchart](https://webarchive.nationalarchives.gov.uk/ukgwa/20190401114243/https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
 
 ### Local resources at the University of Huddersfield
 
-–	[University of Huddersfield's career office](https://students.hud.ac.uk/careers/mycareerplus/).
+–	[University of Huddersfield's career office](https://students.hud.ac.uk/opportunities/).
 
-–	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/careers/jobsandprofessionalexperience/workexperience/undergraduateinternships/).
+–	[The Huddersfield Undergraduate Programme](https://students.hud.ac.uk/opportunities/careers/jobs/internships/).
 
 –	[Bionow jobs](https://bionow.co.uk/jobs) "Bionow supports business growth, competitiveness and innovation within the biomedical and life science sectors across Northern England." University of Huddersfield is a member of this organisation and therefore has access to its regional (and beyond) job offers.
 
 –	Annual HUBS Careers Day for biology and chemistry, typically in April.
-
-–	Annual seminar on “How to be(come) an academic” run by [Dr Nathan Patmore](https://pure.hud.ac.uk/en/persons/nathan-patmore) from the Department of Chemistry (but applicable to all life sciences' students and highly recommended for the final year undergraduates and PhD students).
-
-–	There is also a local (Kirklees-based) Tinker Fisher Awards scheme for summer placements' funding and an internal funding available to support travel expenses for undergraduates at the University of Huddersfield.
 
 ### General
 
@@ -42,20 +38,27 @@ These links should give you a good idea on what these resources are about.
 
 –	[Advice on placements](https://www.nottingham.ac.uk/careers/students/work-experience/index.aspx) resources at the University of Nottingham.
 
-–	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers.
+–	[Stephanie Hicks's advice on academic careers](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) with further links, centred on post-PhD careers; includes info on CVs, cover letters, etc.
 
-- [Austin Z. Henley's _Lessons from my PhD_](https://austinhenley.com/blog/lessonsfrommyphd.html). "Most of what I learned during my PhD had nothing to do with my dissertation topic, grad school, or even computer science. I've written down a few of the lessons in hopes that my students find them useful."
+–	[Austin Z. Henley's _Lessons from my PhD_](https://austinhenley.com/blog/lessonsfrommyphd.html). "Most of what I learned during my PhD had nothing to do with my dissertation topic, grad school, or even computer science. I've written down a few of the lessons in hopes that my students find them useful."
 
-–	If you don't know what you could be doing with your degree, Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above ).
+### If you don't know what you could be doing with your degree
+
+–	Researcher Development team at the University of Sheffield runs a great [weekly column with profiles of non-traditional careers of life scientists](https://thinkaheadsheffield.wordpress.com/tag/sheffvista/). (I note here again that "non-traditional career" name is misleding, as the vast majority of life science students do not end up being lecturers; the academic career is an _alternative career_ - see the Taylor _et al._ 2016 paper in eLife mentioned above).
 
 –	Richi De-Kayne, a PhD student in Bern, has [a blog in which he interviews PhD students](https://phdetails.blogspot.com/p/whats-phdetails-all-about.html) from all around the world. It's an excellent resource to figure out what PhD is, how to get there and what's next. Highly recommended.
 
-–	Prospects Luminate has [several reports on the gradaute job market](https://luminate.prospects.ac.uk/tag/reports), particularly: [What do graduates do? Regional edition](https://luminate.prospects.ac.uk/what-do-graduates-do-regional-edition).
+–	Prospects Luminate has [several reports on the gradaute job market](https://luminate.prospects.ac.uk/tag/reports), particularly: [What do graduates do? Regional edition](https://luminate.prospects.ac.uk/what-do-graduates-do).
 
 –	Do not miss this bit for a little laugh (through the tears): [What is a graduate job?](https://wonkhe.com/blogs/what-is-a-graduate-job/).
 
-–	Last but not least: [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/) by Casey Bergman.
+–	Some advice from MRC: [Biomedical career profiles at the UKRI website](https://www.ukri.org/what-we-do/developing-people-and-skills/mrc/biomedical-career-profiles/)
 
+–	Related: [Biomedical research roles and career pathways](https://www.ukri.org/what-we-do/developing-people-and-skills/mrc/biomedical-research-roles-and-career-pathways/)
+
+–	From the British Ecological Society: [Where can ecology take you?](https://www.britishecologicalsociety.org/learning-and-resources/career-development/career-development-resources/)
+
+–	Last but not least: [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/) by Casey Bergman.
 
 ### Funding
 
@@ -65,7 +68,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
-–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/) (check also their [career development resources](https://www.britishecologicalsociety.org/learning-and-resources/career-development/career-development-resources/))
+–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/) 
 
 –	[Medical Research Scotland summer research placements](https://www.medicalresearchscotland.org.uk/undergraduate-vacation-scholarship/) funding programme.
 
@@ -91,13 +94,11 @@ These links should give you a good idea on what these resources are about.
 
 –	Presentations from the annual [Royal Society of Biology Bioscience Careers Day](http://www.pearltrees.com/mycareer_resourcehub/society-biology-bioscience/id22504187). The link goes to the 2018 event. Lots of advice there on different career paths for broadly-defined bioscience students.
 
-–	Manchester Careers Fair 2022 [Presentations from careers’ fair in Manchester 2018](https://www.ukcareersfair.com/event/manchester-careers-fair)
+–	[Manchester Careers Fair](https://www.ukcareersfair.com/event/manchester-careers-fair)
 
 –	[Industrial Biotechnology Careers Fair](https://www.eventbrite.co.uk/e/industrial-biotechnology-careers-fair-registration-61864385041#), yearly event in Manchester aimed at early career researchers who are interested in future careers in the industrial biotechnology and bioenergy (IBBE) sector.
 
 –	[Science careers outside the lab](https://www.ncl.ac.uk/careers-occupations/science/out-in-the-field/#about) from the Newcastle University.
-
-–	[Non-academic Careers for PhD Holders](https://www.findaphd.com/advice/doing/phd-non-academic-careers.aspx) from the good people at findaphd.
 
 –	[Non-Academic Career Options After your PhD](https://www.jobs.ac.uk/careers-advice/studentships/1998/non-academic-career-options-after-your-phd) from the good people at jobs.ac.uk.
 
@@ -105,11 +106,11 @@ These links should give you a good idea on what these resources are about.
 
 –	[Genetic Counsellor Registration Board](https://gcrb.org.uk) for those considering becoming a genetic counsellor.
 
-–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/bes-post-fellowship-2021/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
+–	[British Ecological Society Parliamentary Office of Science and Technology fellowship (BES POST)](https://www.britishecologicalsociety.org/policy/opportunities/bes-post-fellowship-2023/): the BES POST Fellowship is an outstanding opportunity to gain an insider’s view of how Parliament works and hone your ability to communicate scientific issues to a wider audience (aimed at PhD students; they also have other policy-related schemes). The Fellowship lasts for three months, and is based at the Houses of Parliament in London.
 
 –	[British Science Associacion Media Fellows](https://www.britishscienceassociation.org/media-fellows) programme: "The British Science Association Media Fellowships provide a unique opportunity for practising scientists, clinicians and engineers to spend two to six weeks working at the heart of a media outlet such as the Guardian, BBC Breakfast or the Londonist."
 
-–	[Data Scientist Internship Programme](https://lida.leeds.ac.uk/study-training/data-science-internship-scheme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
+–	[Data Scientist Development Programme](https://lida.leeds.ac.uk/data-scientist-development-programme/) at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk).
 
 ### NHS Scientist Training Programme
 
@@ -123,19 +124,11 @@ These links should give you a good idea on what these resources are about.
 
 All of the below conferences and meetings are undergraduate-friendly:
 
-–	[Manchester Molecular and Genome Evolution Symposium](https://manchestermage.wordpress.com/) (unclear if it recovered from the pandemic).
-
-–	[Evolutionary Genetics and Genomics Symposium in Cambridge](https://evolutionarygeneticsandgenomics.com/registrationevolutionary-genetics-and-genomics-symposium/) (unclear if it recovered from the pandemic).
-
-–	We also have a local bioinformatic/computational biology group, which meets 3-4 times a year and where students are very welcome: [NorthernBUG](https://northernbug.github.io).
-
-In addition to that:
-
-–	Funding for conference travel for PIs who are members of the [British Society for Cell Biology](https://bscb.org/competitions-awardsgrants/cob-support-grants/).
+–	[NorthernBUG](https://northernbug.github.io): a local bioinformatic/computational biology group, which meets 3-4 times a year and where students are very welcome.
 
 ### Career advice
 
-–	Interactive [academic research career flowchart](https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
+–	Interactive [academic research career flowchart](https://webarchive.nationalarchives.gov.uk/ukgwa/20190401114243/https://mrc.ukri.org/skills-careers/interactive-career-framework/#/home) which maps various grant application programmes from some (but not all) funding bodies in the UK. Also good for mapping several academic career pathways.
 
 –	[Dieter Lukas’ academic life and career thoughts](https://dieterlukas.github.io/academiccareer.html). Dieter Lukas is an old pal of mine and I like what he says :-)
 
@@ -155,6 +148,21 @@ In addition to that:
 
 –	prospect.ac.uk's [How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv).
 
+### Posters
+
+- [Ten Simple Rules for a Good Poster Presentation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102) by Erren amd Bourne (2007) PLoS Comput Biol 3(5): e102. https://doi.org/10.1371/journal.pcbi.0030102
+
+- [How to prepare a scientific poster](https://www.science.org/content/article/how-prepare-scientific-poster) by Elisabeth Pain in _Science_, a collection of tips and tricks from researchers
+
+- [How to make an academic poster](https://www.sciencedirect.com/science/article/pii/S2049080116301303?via%3Dihub) by Gundogan _et al._ (2016) Annals of Medicine and Surgery, Volume 11, Pages 69-71.
+https://doi.org/10.1016/j.amsu.2016.09.001.
+
+- [How to design an excellent scientific poster](https://www.jic.ac.uk/blog/how-to-design-an-excellent-scientific-poster/) tips and videos from John Innes Centre
+
+- [A Guide to Designing a Scientific Poster: Content, Layout, and More](https://blog.addgene.org/guide-to-designing-the-scientific-poster) by Michael G. Lemieux at Addgene blog.
+
+- [How To Make An Effective Poster](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/local_resources/documents/pdf_documents/How_To_Make_an_Effective_Poster2.pdf) a slide deck by Matthew Stuckey and Tammy Hoyer at the Undergraduate Research Centre at UC Davis. The presentation is _not_ an example of a good slide design ;-) and I would question some of their examples of "excellent posters", mainly on the basis of text overload, but the recommendations on poster design are solid.
+
 ### How to read a scientific paper
 
 Start here: "Nothing makes you feel stupid quite like reading a scientific journal article." (by [Adam Rubin in _Science_](https://www.science.org/content/article/how-read-scientific-paper-rev2))
@@ -163,7 +171,7 @@ Start here: "Nothing makes you feel stupid quite like reading a scientific journ
 
 –	[How to seriously read scientific paper](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) by Elisabeth Pain in _Science_.
 
-–	[How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful Twitter thread by Christian Mosimann.
+–	[How to read and understand a scientific paper](https://twitter.com/chrmosimann/status/1308227997640478720 ), a very useful X (formerly known as Twitter) thread by Christian Mosimann.
 
 –	[Learning To Read Scientific Journal Articles](https://bartlettje.github.io/2021-10-06-learning-to-read-scientific-journal-articles/) - an evidence-based overview and an interactive tutorial on how to go about reading a research paper by James Bartlett from the University of Glasgow
 
