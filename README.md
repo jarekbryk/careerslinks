@@ -68,7 +68,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[The Genetics Society summer studentships](http://www.genetics.org.uk/grants/summer-studentships/): "grants are available to provide financial support for undergraduate students interested in gaining research experience in any area of genetics by carrying out a research project over the long vacation, usually prior to their final year."
 
-–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/) 
+–	[British Ecological Society summer school](https://www.britishecologicalsociety.org/learning-and-resources/career-development/ugsummer-school/)
 
 –	[Medical Research Scotland summer research placements](https://www.medicalresearchscotland.org.uk/undergraduate-vacation-scholarship/) funding programme.
 
@@ -85,6 +85,30 @@ These links should give you a good idea on what these resources are about.
 –	[Research internships at Okinawa Institute for Science and Technology](https://admissions.oist.jp/apply-research-internship).
 
 –	[Amgen Scholars Programme](http://amgenscholars.com).
+
+- [lister-institute.org.uk/summer-studentships/](https://lister-institute.org.uk/summer-studentships/).
+
+- [www.ox.ac.uk/admissions/graduate/access/uniq-plus](https://www.ox.ac.uk/admissions/graduate/access/uniq-plus).
+
+- [replacinganimalresearch.org.uk/for-scientists/summer-studentship-programme/](https://replacinganimalresearch.org.uk/for-scientists/summer-studentship-programme/).
+
+- [www.gradcracker.com/hub/256/science-and-technology-facilities-council/work-placement-internship/69490/bacterial-membrane-biochemist-summer-placement](https://www.gradcracker.com/hub/256/science-and-technology-facilities-council/work-placement-internship/69490/bacterial-membrane-biochemist-summer-placement) Science & Technology Facilities Council (UKRI) – Bacterial Membrane Biochemist.
+
+- [biology.ed.ac.uk/drp/training-and-internships/wellcome-icm-summer-internship-programme](https://biology.ed.ac.uk/drp/training-and-internships/wellcome-icm-summer-internship-programme) The University of Edinburgh Wellcome iCM.
+
+- [generationresearch.ac.uk/summer-studentships/yorkshire-students/](https://generationresearch.ac.uk/summer-studentships/yorkshire-students/)
+
+- [www2.mrc-lmb.cam.ac.uk/students/student-placement-scheme/](https://www2.mrc-lmb.cam.ac.uk/students/student-placement-scheme/) MCR Laboratory of Molecular Biology.
+
+- [www.slcu.cam.ac.uk/careers/undergraduates/summer-research-projects](https://www.slcu.cam.ac.uk/careers/undergraduates/summer-research-projects) Sainsbury Laboratory.
+
+- [www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/programming-skills-studentship/](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/programming-skills-studentship/) Biochemical Society – Programming Internship.
+
+- [www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/research-studentship/](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/research-studentship/) Biochemical Society – Research Internship.
+
+- [microbiologysociety.org/grants/grants/vacation-studentships.html](https://microbiologysociety.org/grants/grants/vacation-studentships.html) Microbiology Society.
+
+- [www.rms.org.uk/opportunities/professional-development/summer-studentships.html](https://www.rms.org.uk/opportunities/professional-development/summer-studentships.html) Royal Microscopical Society.
 
 ### Industry-related stuff and non-academic careers
 
