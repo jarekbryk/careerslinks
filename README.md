@@ -86,7 +86,7 @@ These links should give you a good idea on what these resources are about.
 
 –	[Amgen Scholars Programme](http://amgenscholars.com).
 
-–	[lister-institute.org.uk/summer-studentships/](https://lister-institute.org.uk/summer-studentships/).
+–	[Lister Institute's summer studentships](https://lister-institute.org.uk/summer-studentships/).
 
 –	[www.ox.ac.uk/admissions/graduate/access/uniq-plus](https://www.ox.ac.uk/admissions/graduate/access/uniq-plus).
 
