@@ -2,6 +2,8 @@
 
 This is a collection of links about sources of funding (placements and postgraduate) and career advice I have collected, mainly to be able to send students who ask me about this to this central place. I have tried to make it a bit more UK-centred than what is available on the web already. PRs welcome!
 
+Hello everyone!
+
 ### Start here
 
 These links should give you a good idea on what these resources are about.
