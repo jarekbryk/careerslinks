@@ -126,6 +126,8 @@ These links should give you a good idea on what these resources are about.
 
 –	[Science careers outside the lab](https://www.ncl.ac.uk/careers-occupations/science/out-in-the-field/#about) from the Newcastle University.
 
+–	[Hanzilla Jobs: Sciences](https://jobs.hanzilla.co/sciences/) is a free, daily-updated Canadian student and recent-graduate jobs board with science, research, environmental, lab, data, policy, internship, co-op, new-grad, junior, and entry-level roles across Canada.
+
 –	[Non-Academic Career Options After your PhD](https://www.jobs.ac.uk/careers-advice/studentships/1998/non-academic-career-options-after-your-phd) from the good people at jobs.ac.uk.
 
 –	Melisa Wilson's list of resources: [Industry Internship Opportunities](https://docs.google.com/spreadsheets/d/1roxLF4_QKXmZPrbzQiEYyWQZBGGR_IJImHYql2uhK1Y/edit#gid=0) (check [the other spreadsheets from her lab](http://www.sexchrlab.org/lab#/funding-and-internships) as well).
