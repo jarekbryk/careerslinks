@@ -173,6 +173,7 @@ All of the below conferences and meetings are undergraduate-friendly:
 –	jobs.ac.uk's [CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates).
 
 –	prospect.ac.uk's [How to write a CV](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/how-to-write-a-cv).
+–	[ResumeAI](https://withresumeai.com/) — free ATS checker + open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 
 ### Posters
 
