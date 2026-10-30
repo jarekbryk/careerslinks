@@ -168,6 +168,8 @@ All of the below conferences and meetings are undergraduate-friendly:
 
 ### CVs
 
+–	[JobEmerge](https://www.jobemerge.work) – AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 –	[22 tips for writing academic cvs and covering letters](https://visualmethodculture.wordpress.com/2019/05/24/22-tips-for-writing-academic-cvs-and-covering-letters/). Prof. Gillian Rose from Oxford University shares her hard-earned experience on CVs and cover letters (as a member of hiring panels).
 
 –	jobs.ac.uk's [CV templates](https://www.jobs.ac.uk/careers-advice/cv-templates).
